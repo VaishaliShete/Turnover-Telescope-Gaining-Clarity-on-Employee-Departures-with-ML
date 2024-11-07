@@ -56,5 +56,5 @@ The dataset used for this project consists of employee records, including attrib
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/employee-retention-insights.git
-   cd employee-retention-insights
+   git clone https://github.com/VaishaliShete/employee-turnover-telescope.git
+   cd employee-turnover-telescope
